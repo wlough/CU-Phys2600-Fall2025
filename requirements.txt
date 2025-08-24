@@ -1,2 +1,12 @@
 matplotlib
 numpy
+sympy
+ipykernel
+black
+python-lsp-server[all]
+jedi
+mccabe
+pycodestyle
+notebook
+jupyterlab 
+jupyterlab-rise
