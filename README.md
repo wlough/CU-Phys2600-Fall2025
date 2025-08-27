@@ -3,6 +3,7 @@
 ## Lectures
 
 - Lecture 1: Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec01-intro.ipynb)
+- Lecture 2: Talking to the computer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec02-basic-syntax.ipynb)
 
 
 ## Tutorials
