@@ -6,6 +6,7 @@
 - Lecture 2: Talking to the computer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec02-basic-syntax.ipynb)
 - Lecture 3: Variables, data types, and string formatting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec03-variables-data-types.ipynb)
 - Lecture 4: Functions and scope [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec04-functions.ipynb)
+- Lecture 5: NumPy and Arrays, Part I [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec05-numpy-part1.ipynb)
 
 
 ## Tutorials
@@ -14,8 +15,10 @@
 - Tutorial 2: Jupyter and Python 101 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/tutorials/tut02/tut02.ipynb)
 - Tutorial 3: Variables, data types, and string formatting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/tutorials/tut03/tut03.ipynb)
 - Tutorial 4: Functions and Scope [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/tutorials/tut04/tut04.ipynb)
+- Tutorial 5: NumPy Part I [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/tutorials/tut05/tut05.ipynb)
 
 ## Homework
 
 - Homework 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/homework/hw01/hw01.ipynb)
 - Homework 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/homework/hw02/hw02.ipynb)
+- Homework 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/homework/hw03/hw03.ipynb)
