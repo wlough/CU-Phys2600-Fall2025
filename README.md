@@ -7,6 +7,8 @@
 - Lecture 3: Variables, data types, and string formatting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec03-variables-data-types.ipynb)
 - Lecture 4: Functions and scope [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec04-functions.ipynb)
 - Lecture 5: NumPy and Arrays, Part I [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec05-numpy-part1.ipynb)
+- Lecture 6: Making plots with MatPlotLib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec06-plotting.ipynb)
+- Lecture 7: Numerical integration and for loops [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wlough/CU-Phys2600-Fall2025/blob/main/lectures/lec07-quadrature-for-loops.ipynb)
 
 
 ## Tutorials
