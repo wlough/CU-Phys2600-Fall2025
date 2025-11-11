@@ -10,3 +10,5 @@ pycodestyle
 notebook
 jupyterlab 
 jupyterlab-rise
+gvar
+lsqfit
