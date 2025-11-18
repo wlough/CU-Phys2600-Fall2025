@@ -13,7 +13,7 @@ some_data = 44
 x = my_np.array([1,2,3])
 y = my_np.array([4,5,6])
 
-other_data = x / (x+y)
+other_data = x / my_np.exp(x)
 
 print("This line, like the others above, is evaluated on import!")
 
